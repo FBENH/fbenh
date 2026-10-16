@@ -1,11 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on a freelance project for a real estate company.<br>👯 I’m looking to collaborate on exciting projects.<br>🤝 I’m seeking help to move forward in my career.<br>🌱 I’m currently learning Avalonia to improve my .NET applications.<br>⚡ Fun fact: I love Corgis!
+# Federico Bentancor
 
+### Software Engineer | .NET & Cloud-Native Systems
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=FBENH&theme=dark&hide_border=false)<br/>
+I design and build scalable software solutions, specializing in the .NET ecosystem, distributed systems, and cloud-native architectures.
 
+My work focuses on building maintainable backend services, modernizing enterprise applications, and solving engineering problems through thoughtful architecture and clean, reliable code.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Core Technologies
+
+### Backend & Architecture
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Cloud & Infrastructure
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Data & Persistence
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square)
+![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### AI-Assisted Engineering
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+
+## Engineering Principles
+
+- **Maintainability over unnecessary complexity** - design software that can evolve without becoming difficult to understand.
+- **Scalability by design** - consider performance, reliability, and operational requirements early in the development process.
+- **Pragmatic architecture** - choose patterns and abstractions based on actual requirements, not trends.
+- **Continuous improvement** - modernize legacy systems, refine development workflows, and explore better engineering practices.
+
+---
+
+*Always building, learning, and looking for better ways to engineer software.*
